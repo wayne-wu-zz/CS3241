@@ -2,8 +2,8 @@
 Wayne Tzu-Wen Wu
 
 ## Pictures
-![alt text](https://github.com/wayne-wu/doodle/pics/doodle1.png "Normal Mode")
-![alt text](https://github.com/wayne-wu/doodle/pics/doodle2.png "Rage Mode")
+![alt text](https://github.com/wayne-wu/CS3241/blob/master/doodle/pics/doodle1.PNG "Normal Mode")
+![alt text](https://github.com/wayne-wu/CS3241/blob/master/doodle/pics/doodle2.PNG "Rage Mode")
 
 ## Summary (of the Drawing):
 This drawing is based on the anime/mange Attack on Titan. 
