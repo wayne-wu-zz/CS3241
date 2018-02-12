@@ -1,6 +1,10 @@
 # A0178802Y Assignment 1
 Wayne Tzu-Wen Wu
 
+## Pictures
+![alt text](https://github.com/wayne-wu/doodle/pics/doodle1.png "Normal Mode")
+![alt text](https://github.com/wayne-wu/doodle/pics/doodle2.png "Rage Mode")
+
 ## Summary (of the Drawing):
 This drawing is based on the anime/mange Attack on Titan. 
 Specifically, it is the "Titan" form of the main character Eren Jaeger.
