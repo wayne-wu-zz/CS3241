@@ -2,8 +2,8 @@
 Wayne Tzu-Wen Wu
 
 ## Pictures
-![alt text](https://github.com/wayne-wu/universe/pics/pic1.png "Normal")
-![alt text](https://github.com/wayne-wu/universe/pics/pic2.png "Motion Blur")
+![alt text](https://github.com/wayne-wu/CS3241/blob/master/universe/pics/pic1.png "Normal")
+![alt text](https://github.com/wayne-wu/CS3241/blob/master/universe/pics/pic2.png "Motion Blur")
 
 ## Summary (of the Drawing):
 This drawing is a 2D universe with the sun in the middle, 
